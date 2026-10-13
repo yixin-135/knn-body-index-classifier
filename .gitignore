@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE / 编辑器
+.idea/
+.vscode/
+*.iml
+
+# 数据集（来源见 README，请勿上传）
+*.csv
+data/
+datasets/
+
+# 操作系统
+.DS_Store
+Thumbs.db
